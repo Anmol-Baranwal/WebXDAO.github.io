@@ -1,13 +1,29 @@
-# pattern:
+## Files          
+README.md
+.gitignore 
+LICENSE 
+.github/workflows
+app/ 
+src/
+tests/ 
 
-# file/directory            user
+## Directories
+.github/ 
+node_modules/ 
+public/ 
+.env/
 
-# Default reviewers/codeowners for all code changes
+## Default reviewers/codeowners for all code changes
 * @WebXDAO/webx-core @WebXDAO/webx-guild-developer
 
-# Reviewer by organization Team
+## Reviewer by organization Team
 
-# Reviewer by specific folders
+## Reviewer by specific folders
 
-# Reviewer by specific files
+## Reviewer by specific files
 *.md @Panquesito7
+
+## Special cases
+# Any changes to the CODEOWNERS file must be approved by 
+# Any changes to the .gitattributes file must be approved by 
+# Any changes to the .gitignore file must be approved by 
